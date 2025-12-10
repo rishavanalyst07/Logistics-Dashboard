@@ -14,4 +14,4 @@ Description - Developed a Power BI dashboard to monitor Kraasa logistics KPIs in
 
 Show what the dashboard looks like
 
-Example: ![Dashboard Preview](https://github.com/rishavanalyst07/Publicis-Pulse-Survey/blob/main/Snapshot%20of%20Publicis%20Pulse%20Survey.png).
+Example: ![Dashboard Preview](https://github.com/rishavanalyst07/Logistics-Dashboard/blob/main/Snapshot%20of%20Logistic%20Dashboard.png).
